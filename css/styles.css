@@ -16,11 +16,14 @@ body{
   padding: 1em;
   float: none;
   align-self: center;
-  
 }
 
 h5{
   text-align: center;
+}
+
+.span{
+  font-weight: bolder;
 }
 
 img{
@@ -28,4 +31,3 @@ img{
   max-width: 300px;
   align-self: center;
 }
-
