@@ -1,21 +1,29 @@
 body{
-  background: rgba(132, 199, 124, 0.527)
+  background: whitesmoke;
+}
+
+.card{
+  background: rgba(132, 199, 124, 0.527);
+  border-radius: 1em;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.box{
+  background: rgba(132, 199, 124, 0.527);
+  margin: auto;
+  border-radius: 1em;
+  padding: 1em;
+  float: none;
+  align-self: center;
 }
 
 h5{
   text-align: center;
 }
 
-.card{
-  border-radius: 1em;
-}
-
 img{
   border-radius: 50%;
-  max-width: 66%;
-  align-self: center;
-}
-
-.row{
+  max-width: 300px;
   align-self: center;
 }
