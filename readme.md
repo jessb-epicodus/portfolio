@@ -24,6 +24,7 @@ _Code Review
 
 ## License
 
-_If you run into any issues or have questions, ideas or concerns contact: <jessb-epicodus@gmail.com>_
+*_https://github.com/jessb-epicodus
+*_If you run into any issues or have questions, ideas or concerns contact: <jessb-epicodus@gmail.com>_
 
 Copyright (c) _01/07/2022_ _Jessica Baker_
