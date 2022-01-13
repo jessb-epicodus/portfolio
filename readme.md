@@ -21,8 +21,8 @@ This code review was to create a portfolio webpage using HTML and CSS & include
 ## Setup/Installation Requirements
 
 * Go to _https://github.com/jessb-epicodus/portfolio.git_
-* Cone this repository to your desktop
-* Navigate to the top level of the directory
+* Cone this repository to your desktop (or other desired location)
+* Navigate to the top level of the directory called _Portfolio_
 * Open the index.html file in your browser
 * Or copy & paste this link in your brower: _https://jessb-epicodus.github.io/portfolio/_
 
